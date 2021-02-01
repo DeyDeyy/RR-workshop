@@ -1,8 +1,8 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Déborah RICARD
-**Date:** 01/02/2021
-**Course:** CI15
+**Name of the student:** Déborah RICARD <br>
+**Date:** 01/02/2021 <br>
+**Course:** CI15 <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
